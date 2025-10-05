@@ -12,7 +12,7 @@ export default function AppLayout({ children }: { children: ReactNode }) {
         <SidebarHeader>
           <Button variant="ghost" className="flex items-center gap-2 w-full justify-start text-lg font-bold font-headline">
             <Gem className="text-primary" />
-            MintAI
+            FinancialTracker
           </Button>
         </SidebarHeader>
         <SidebarContent>

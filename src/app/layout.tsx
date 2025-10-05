@@ -15,7 +15,7 @@ const fontSpaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: 'MintAI',
+  title: 'FinancialTracker',
   description: 'Personal finance tracking with AI',
 };
 
